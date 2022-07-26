@@ -2,18 +2,17 @@
 
 |------------------------------------Screenshot------------------------------------|
 
-https://drive.google.com/file/d/1HXOaOSRmnUreaoHMyrEqGEp_gl1a2jBS/view?usp=sharing
+![SignUp](https://user-images.githubusercontent.com/54274713/181021204-351901d2-f86e-4936-86b5-b815281a19f6.png)
 
-https://drive.google.com/file/d/1JGkWWnPEGD-s_3jFZbLBTlRujV7S666q/view?usp=sharing
+![Login](https://user-images.githubusercontent.com/54274713/181021201-514ec0f4-dd8c-409a-9a96-7f44e3163f50.png)
 
-https://drive.google.com/file/d/1IumxYdg_tsNRi2fWZFOf-aatxSmTZMsc/view?usp=sharing
+![Home_page](https://user-images.githubusercontent.com/54274713/181021198-87a6596f-3638-43f7-b447-996b584e4363.png)
 
-https://drive.google.com/file/d/1bvr1iObqLzCyf23tYbXkk9gen6-wcscu/view?usp=sharing
+![Create_Post](https://user-images.githubusercontent.com/54274713/181021184-a836520e-45fb-448c-8af4-8b73dc3317b8.png)
 
-https://drive.google.com/file/d/13FZ2QUpze_MEE5eHENtmte1D0vZ6o_e2/view?usp=sharing
+![Chatting](https://user-images.githubusercontent.com/54274713/181021211-ff868173-a850-41a4-a93c-311a1efe810e.png)
 
-https://drive.google.com/file/d/1rMho-1jeKB21KQE53MxF5xRQPFJ4ZuYJ/view?usp=sharing
+![User_Profile](https://user-images.githubusercontent.com/54274713/181021206-4cb6211d-5c7d-4d91-b62b-8cac78caf241.png)
 
-https://drive.google.com/file/d/1DqIGL8byWoA5ucS7F8MmgsNhSbJEklvI/view?usp=sharing
+![Edit_User_profile](https://user-images.githubusercontent.com/54274713/181021194-3421df47-874a-416d-af19-91232f762e51.png)
 
-![Chatting](https://drive.google.com/file/d/1HXOaOSRmnUreaoHMyrEqGEp_gl1a2jBS/view?usp=sharing)
